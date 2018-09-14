@@ -1,0 +1,5 @@
+/
+
+
+//evertime  you update a css  variable ,  in JS  whereever the variable is reference  will update itself. 
+//with SAS you define them at compile and it gets compiled and you cannot change it. 
